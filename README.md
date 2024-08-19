@@ -8,5 +8,8 @@ https://github.com/sngular/kloadgen/wiki/producer-configuration
 Consumer:
 https://github.com/sngular/kloadgen/wiki/consumer-configuration
 
+Schemas:
+https://github.com/sngular/kloadgen/wiki/schemas
 
-
+Sample: https://www.perfblogspot.com/2020/07/apache-kafka-load-testing-with-jmeter.html
+kafka.jar: https://stackoverflow.com/questions/66279759/when-running-load-test-for-kafka-messaging-with-jmeter-from-jenkins-server-getti
